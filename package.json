@@ -1,5 +1,5 @@
 {
-    "name": "mole-rpc",
+    "name": "Digital-Health-Outcomes-Models/mole-rpc",
     "version": "1.0.4",
     "description": "Transport agnostic spec compliant JSON RPC client and server",
     "main": "index.js",
@@ -18,7 +18,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/koorchik/node-mole-rpc.git"
+        "url": "git+https://github.com/Digital-Health-Outcomes-Models/node-mole-rpc.git"
     },
     "keywords": [
         "jsonrpc",
@@ -37,7 +37,7 @@
     "author": "koorchik",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/koorchik/node-mole-rpc/issues"
+        "url": "https://github.com/Digital-Health-Outcomes-Models/node-mole-rpc/issues"
     },
-    "homepage": "https://github.com/koorchik/node-mole-rpc#readme"
+    "homepage": "https://github.com/Digital-Health-Outcomes-Models/node-mole-rpc#readme"
 }
