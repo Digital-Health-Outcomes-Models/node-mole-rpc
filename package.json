@@ -1,5 +1,5 @@
 {
-    "name": "Digital-Health-Outcomes-Models/mole-rpc",
+    "name": "mole-rpc",
     "version": "1.0.4",
     "description": "Transport agnostic spec compliant JSON RPC client and server",
     "main": "index.js",
